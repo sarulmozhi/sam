@@ -1,4 +1,4 @@
-#sam1
+
 num = float(input("Enter a number: "))
 if num > 0:
    print("Positive number")
